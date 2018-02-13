@@ -1,0 +1,42 @@
+C:\Users\attea\Source\Repos\Assignment\AssignmentTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Users\attea\Source\Repos\Assignment\AssignmentTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Users\attea\Source\Repos\Assignment\AssignmentTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Users\attea\Source\Repos\Assignment\AssignmentTests\bin\Debug\AssignmentTests.dll
+C:\Users\attea\Source\Repos\Assignment\AssignmentTests\bin\Debug\AssignmentTests.pdb
+C:\Users\attea\Source\Repos\Assignment\AssignmentTests\bin\Debug\Assignment.exe
+C:\Users\attea\Source\Repos\Assignment\AssignmentTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+C:\Users\attea\Source\Repos\Assignment\AssignmentTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+C:\Users\attea\Source\Repos\Assignment\AssignmentTests\bin\Debug\LumenWorks.Framework.IO.dll
+C:\Users\attea\Source\Repos\Assignment\AssignmentTests\bin\Debug\CommandLine.dll
+C:\Users\attea\Source\Repos\Assignment\AssignmentTests\bin\Debug\Assignment.pdb
+C:\Users\attea\Source\Repos\Assignment\AssignmentTests\bin\Debug\Assignment.exe.config
+C:\Users\attea\Source\Repos\Assignment\AssignmentTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+C:\Users\attea\Source\Repos\Assignment\AssignmentTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+C:\Users\attea\Source\Repos\Assignment\AssignmentTests\bin\Debug\LumenWorks.Framework.IO.pdb
+C:\Users\attea\Source\Repos\Assignment\AssignmentTests\bin\Debug\LumenWorks.Framework.IO.xml
+C:\Users\attea\Source\Repos\Assignment\AssignmentTests\bin\Debug\CommandLine.xml
+C:\Users\attea\Source\Repos\Assignment\AssignmentTests\obj\Debug\AssignmentTests.csprojResolveAssemblyReference.cache
+C:\Users\attea\Source\Repos\Assignment\AssignmentTests\obj\Debug\AssignmentTests.csproj.CoreCompileInputs.cache
+C:\Users\attea\Source\Repos\Assignment\AssignmentTests\obj\Debug\AssignmentTests.dll
+C:\Users\attea\Source\Repos\Assignment\AssignmentTests\obj\Debug\AssignmentTests.pdb
+D:\Uusi kansio\Assignment\AssignmentTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+D:\Uusi kansio\Assignment\AssignmentTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+D:\Uusi kansio\Assignment\AssignmentTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+D:\Uusi kansio\Assignment\AssignmentTests\bin\Debug\AssignmentTests.dll
+D:\Uusi kansio\Assignment\AssignmentTests\bin\Debug\AssignmentTests.pdb
+D:\Uusi kansio\Assignment\AssignmentTests\bin\Debug\Assignment.exe
+D:\Uusi kansio\Assignment\AssignmentTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+D:\Uusi kansio\Assignment\AssignmentTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+D:\Uusi kansio\Assignment\AssignmentTests\bin\Debug\LumenWorks.Framework.IO.dll
+D:\Uusi kansio\Assignment\AssignmentTests\bin\Debug\CommandLine.dll
+D:\Uusi kansio\Assignment\AssignmentTests\bin\Debug\Assignment.pdb
+D:\Uusi kansio\Assignment\AssignmentTests\bin\Debug\Assignment.exe.config
+D:\Uusi kansio\Assignment\AssignmentTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+D:\Uusi kansio\Assignment\AssignmentTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+D:\Uusi kansio\Assignment\AssignmentTests\bin\Debug\LumenWorks.Framework.IO.pdb
+D:\Uusi kansio\Assignment\AssignmentTests\bin\Debug\LumenWorks.Framework.IO.xml
+D:\Uusi kansio\Assignment\AssignmentTests\bin\Debug\CommandLine.xml
+D:\Uusi kansio\Assignment\AssignmentTests\obj\Debug\AssignmentTests.csprojResolveAssemblyReference.cache
+D:\Uusi kansio\Assignment\AssignmentTests\obj\Debug\AssignmentTests.csproj.CoreCompileInputs.cache
+D:\Uusi kansio\Assignment\AssignmentTests\obj\Debug\AssignmentTests.dll
+D:\Uusi kansio\Assignment\AssignmentTests\obj\Debug\AssignmentTests.pdb
